@@ -12,7 +12,7 @@ d.Ensures inputs are numerical
 
 e.Prevents negative values
 
-f.Handles invalid input gracefully with user-friendly messages
+f.Handles invalid input gracefully with user-friendly messages.
 
 g.Clear output showing either discounted price or original price
 
