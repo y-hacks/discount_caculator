@@ -27,6 +27,6 @@ use:   python discount_calculator.py
 2.Enter the discount percentage %.
 
 3.The program will display:
-  a.Final discounted price (if discount is 20% or higher)
+  a.Final discounted price (if discount is 20% or higher).
 
   b.Original price (if discount is below 20%)
