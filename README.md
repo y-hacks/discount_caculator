@@ -29,4 +29,4 @@ use:   python discount_calculator.py
 3.The program will display:
   a.Final discounted price (if discount is 20% or higher).
 
-  b.Original price (if discount is below 20%)
+  b.Original price (if discount is below 20%).
