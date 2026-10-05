@@ -4,7 +4,7 @@ A Python program that calculates the final price of an item after applying a dis
 # Features
 A.Calculates discounted price when discount is 20% or higher
 
-b.Returns original price when discount is below 20%
+b.Returns the original price when discount is below 20%
 
 c.Robust input validation:
 
