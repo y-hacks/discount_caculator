@@ -2,7 +2,7 @@
 A Python program that calculates the final price of an item after applying a discount, with input validation to ensure numerical values are entered.
 
 # Features
-A.Calculates discounted price when the discount is 20% or higher
+A.Calculates discounted price when the discount is 20% or higher.
 
 b.Returns the original price when discount is below 20%
 
