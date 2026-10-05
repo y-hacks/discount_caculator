@@ -22,7 +22,7 @@ use:   python discount_calculator.py
 
 # Follow the prompts:
 
-1.Enter the original price of the item
+1.Enter the original price of the item.
 
 2.Enter the discount percentage %.
 
